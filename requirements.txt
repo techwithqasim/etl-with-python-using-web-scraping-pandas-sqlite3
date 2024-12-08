@@ -1,0 +1,6 @@
+# requirements.txt ( io, sqlite3, datetime are already part of Python's standard library.)
+
+pandas
+requests
+beautifulsoup4
+icecream

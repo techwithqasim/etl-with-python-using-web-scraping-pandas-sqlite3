@@ -1,0 +1,8 @@
+2024-12-08 18:02:40.470470: Step 0: Preliminaries complete. Initiating ETL process.
+2024-12-08 18:02:45.512096: Step 1: Data extraction complete. Data Extracted Successfully from Wikipedia. Initiating Transformation process.
+2024-12-08 18:02:45.846113: Step 2: Data transformation complete. Initiating Loading process.
+2024-12-08 18:02:45.852143: Step 3.1: Data loaded to CSV file.
+2024-12-08 18:02:45.932864: Step 3.2: Data loaded to SQLite Database as a table, Executing queries.
+2024-12-08 18:02:45.933865: Process Complete. Query: SELECT * FROM Largest_banks Completed Successfully.
+2024-12-08 18:02:45.952326: Process Complete. Query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks Completed Successfully.
+2024-12-08 18:02:45.955343: Process Complete. Query: SELECT "Bank name" FROM Largest_banks LIMIT 5 Completed Successfully.
